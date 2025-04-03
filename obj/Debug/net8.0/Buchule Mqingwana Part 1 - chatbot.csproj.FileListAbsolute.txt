@@ -1,0 +1,18 @@
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.exe
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.deps.json
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.dll
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.pdb
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule .7AB3E701.Up2Date
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.dll
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\refint\Buchule Mqingwana Part 1 - chatbot.dll
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.pdb
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\Buchule Mqingwana Part 1 - chatbot.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Buchule Mqingwana Part 1 - chatbot\obj\Debug\net8.0\ref\Buchule Mqingwana Part 1 - chatbot.dll
